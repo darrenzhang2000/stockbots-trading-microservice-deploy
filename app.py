@@ -1,9 +1,6 @@
-from flask import Flask, jsonify
-from flask_cors import CORS
 import requests
 from both_algos import stockActions
 import time
-app = Flask(__name__)
 from dotenv import load_dotenv
 import os
 
@@ -48,4 +45,3 @@ def runAlgoJob():
 
 if __name__ == '__main__':
     runAlgoJob()
-    app.run(port=8000)
