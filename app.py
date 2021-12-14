@@ -24,9 +24,6 @@ def getPortfolios():
 
     return portfolios
 
-thread1 = threading.Thread(runAlgoJob)
-thread1.run()
-
 def runAlgoJob():
     print('running algo job')
     time.sleep(86400)
@@ -38,6 +35,8 @@ def runAlgoJob():
     runAlgoJob()
 
 
+thread1 = threading.Thread(runAlgoJob)
+thread1.run()
 
 if __name__ == '__main__':
     app = Flask(__name__)
