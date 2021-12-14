@@ -40,3 +40,4 @@ thread1.run()
 
 if __name__ == '__main__':
     app = Flask(__name__)
+    app.run(port=9000)
