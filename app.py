@@ -22,16 +22,6 @@ def getPortfolios():
     return portfolios
 
 def runAlgoJob():
-    url = f"{BACKEND_API}/users/register"
-
-    payload='email=aaaa%40gmail.com&password=aaa&firstName=a&lastName=a'
-    headers = {
-    'Content-Type': 'application/x-www-form-urlencoded'
-    }
-
-    response = requests.request("POST", url, headers=headers, data=payload)
-
-    print(response.text)
     time.sleep(86400)
     
     portfolios = getPortfolios()
