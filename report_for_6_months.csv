@@ -1,0 +1,633 @@
+,Date,Stock,Spending Power,Price,Quantity,Total,Report
+0,2021-04-27,GOOGL,10000.0,2290.97998,0,10000.0,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+1,2021-04-27,FB,10000.0,303.570007,0,10000.0,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+2,2021-04-27,MSFT,10000.0,261.970001,0,10000.0,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+3,2021-04-27,TSLA,10000.0,704.73999,0,10000.0,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+4,2021-04-28,GOOGL,10000.0,2359.040039,0,10000.0,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+5,2021-04-28,TSLA,10000.0,694.400024,0,10000.0,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+6,2021-04-28,FB,5086.399904,307.100006,16,10000.0,Bought 16 of FB for 307.100006 because it's been growing for the past 3 days. New total is 10000.0
+7,2021-04-28,MSFT,249.75994199999968,254.559998,19,10000.0,Bought 19 of MSFT for 254.559998 because it's been growing for the past 3 days. New total is 10000.0
+8,2021-04-29,GOOGL,249.75994199999968,2392.76001,0,10319.610007,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+9,2021-04-29,MSFT,2522.3498969999996,252.509995,10,10319.610007000001,"Sold half, 9, of stock MSFT at 252.509995 because it's platued for the past 3 days and it has an okay recent history. New total is 10319.610007000001"
+10,2021-04-29,TSLA,2522.3498969999996,677.0,0,10319.610007000001,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+11,2021-04-29,FB,215.7798269999994,329.51001,23,10319.610007,Bought 7 of FB for 329.51001 because it's been growing for the past 3 days. New total is 10319.610007
+12,2021-04-30,TSLA,215.7798269999994,709.440002,0,10214.419458,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+13,2021-04-30,GOOGL,215.7798269999994,2353.5,0,10214.419458,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+14,2021-04-30,MSFT,1476.6797919999995,252.179993,5,10214.419458,"Sold half, 5, of stock MSFT at 252.179993 because it's platued for the past 3 days and it has an okay recent history. New total is 10214.419458"
+15,2021-04-30,FB,176.35984399999938,325.079987,27,10214.419458,Bought 4 of FB for 325.079987 because it's been growing for the past 3 days. New total is 10214.419458
+16,2021-05-03,MSFT,1435.6598489999994,251.860001,0,10145.319498,Sold all 5 of stock MSFT at 251.860001 because it's been falling for 3 consecutive days. New total is 10145.319498
+17,2021-05-03,GOOGL,1435.6598489999994,2343.080078,0,10145.319498,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+18,2021-05-03,FB,5629.19968,322.579987,14,10145.319498,"Sold half, 13, of stock FB at 322.579987 because it's platued for the past 3 days and it has an okay recent history. New total is 10145.319498"
+19,2021-05-03,TSLA,5629.19968,684.900024,0,10145.319498,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+20,2021-05-04,MSFT,5629.19968,247.789993,0,10086.23947,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+21,2021-05-04,GOOGL,5629.19968,2306.830078,0,10086.23947,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+22,2021-05-04,FB,7857.719574999999,318.359985,7,10086.239469999999,"Sold half, 7, of stock FB at 318.359985 because it's platued for the past 3 days and it has an okay recent history. New total is 10086.239469999999"
+23,2021-05-04,TSLA,7857.719574999999,673.599976,0,10086.239469999999,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+24,2021-05-05,GOOGL,7857.719574999999,2314.77002,0,10062.859498,Didn't do anything for GOOGL since it's falling and we have own none of its stocks
+25,2021-05-05,FB,10062.859498,315.019989,0,10062.859498,Sold all 7 of stock FB at 315.019989 because it's been falling for 3 consecutive days. New total is 10062.859498
+26,2021-05-05,MSFT,10062.859498,246.470001,0,10062.859498,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+27,2021-05-05,TSLA,10062.859498,670.940002,0,10062.859498,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+28,2021-05-06,FB,10062.859498,320.019989,0,10062.859498,Didn't do anything for FB since it's falling and we have own none of its stocks
+29,2021-05-06,MSFT,10062.859498,249.729996,0,10062.859498,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+30,2021-05-06,TSLA,10062.859498,663.539978,0,10062.859498,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+31,2021-05-06,GOOGL,10062.859498,2337.350098,0,10062.859498,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+32,2021-05-07,TSLA,10062.859498,672.369995,0,10062.859498,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+33,2021-05-07,GOOGL,10062.859498,2351.929932,0,10062.859498,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+34,2021-05-07,FB,10062.859498,319.079987,0,10062.859498,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+35,2021-05-07,MSFT,10062.859498,252.460007,0,10062.859498,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+36,2021-05-10,FB,10062.859498,305.970001,0,10062.859498,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+37,2021-05-10,MSFT,10062.859498,247.179993,0,10062.859498,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+38,2021-05-10,TSLA,10062.859498,629.039978,0,10062.859498,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+39,2021-05-10,GOOGL,895.8594979999998,2291.75,4,10062.859498,Bought 4 of GOOGL for 2291.75 because it's been growing for the past 3 days. New total is 10062.859498
+40,2021-05-11,GOOGL,5435.979616,2270.060059,2,9976.099734,"Sold half, 2, of stock GOOGL at 2270.060059 because it's platued for the past 3 days and it has an okay recent history. New total is 9976.099734"
+41,2021-05-11,FB,5435.979616,306.529999,0,9976.099734,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+42,2021-05-11,MSFT,5435.979616,246.229996,0,9976.099734,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+43,2021-05-11,TSLA,5435.979616,617.200012,0,9976.099734,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+44,2021-05-12,GOOGL,7636.229616,2200.25,1,9836.479616,"Sold half, 1, of stock GOOGL at 2200.25 because it's platued for the past 3 days and it has an okay recent history. New total is 9836.479616"
+45,2021-05-12,FB,7636.229616,302.549988,0,9836.479616,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+46,2021-05-12,MSFT,7636.229616,239.0,0,9836.479616,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+47,2021-05-12,TSLA,7636.229616,589.890015,0,9836.479616,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+48,2021-05-13,GOOGL,9865.269655,2229.040039,0,9865.269655,Sold all 1 of stock GOOGL at 2229.040039 because it's been falling for 3 consecutive days. New total is 9865.269655
+49,2021-05-13,MSFT,9865.269655,243.029999,0,9865.269655,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+50,2021-05-13,TSLA,9865.269655,571.690002,0,9865.269655,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+51,2021-05-13,FB,9865.269655,305.26001,0,9865.269655,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+52,2021-05-14,TSLA,9865.269655,589.73999,0,9865.269655,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+53,2021-05-14,GOOGL,9865.269655,2278.379883,0,9865.269655,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+54,2021-05-14,FB,9865.269655,315.940002,0,9865.269655,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+55,2021-05-14,MSFT,9865.269655,248.149994,0,9865.269655,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+56,2021-05-17,GOOGL,9865.269655,2288.919922,0,9865.269655,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+57,2021-05-17,FB,9865.269655,315.459991,0,9865.269655,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+58,2021-05-17,MSFT,9865.269655,245.179993,0,9865.269655,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+59,2021-05-17,TSLA,9865.269655,576.830017,0,9865.269655,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+60,2021-05-18,FB,9865.269655,309.959991,0,9865.269655,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+61,2021-05-18,MSFT,9865.269655,243.080002,0,9865.269655,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+62,2021-05-18,TSLA,9865.269655,577.869995,0,9865.269655,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+63,2021-05-18,GOOGL,815.3897710000001,2262.469971,4,9865.269655,Bought 4 of GOOGL for 2262.469971 because it's been growing for the past 3 days. New total is 9865.269655
+64,2021-05-19,GOOGL,5358.389771,2271.5,2,9901.389771,"Sold half, 2, of stock GOOGL at 2271.5 because it's platued for the past 3 days and it has an okay recent history. New total is 9901.389771"
+65,2021-05-19,FB,5358.389771,313.589996,0,9901.389771,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+66,2021-05-19,MSFT,5358.389771,243.119995,0,9901.389771,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+67,2021-05-19,TSLA,5358.389771,563.460022,0,9901.389771,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+68,2021-05-20,GOOGL,7665.339722000001,2306.949951,1,9972.289673000001,"Sold half, 1, of stock GOOGL at 2306.949951 because it's platued for the past 3 days and it has an okay recent history. New total is 9972.289673000001"
+69,2021-05-20,FB,7665.339722000001,318.609985,0,9972.289673000001,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+70,2021-05-20,MSFT,7665.339722000001,246.479996,0,9972.289673000001,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+71,2021-05-20,TSLA,7665.339722000001,586.780029,0,9972.289673000001,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+72,2021-05-21,GOOGL,9959.469605,2294.129883,0,9959.469605,"Sold half, 1, of stock GOOGL at 2294.129883 because it's platued for the past 3 days and it has an okay recent history. New total is 9959.469605"
+73,2021-05-21,FB,9959.469605,316.230011,0,9959.469605,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+74,2021-05-21,MSFT,9959.469605,245.169998,0,9959.469605,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+75,2021-05-21,TSLA,9959.469605,580.880005,0,9959.469605,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+76,2021-05-24,GOOGL,9959.469605,2361.040039,0,9959.469605,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+77,2021-05-24,FB,9959.469605,324.630005,0,9959.469605,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+78,2021-05-24,MSFT,9959.469605,250.779999,0,9959.469605,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+79,2021-05-24,TSLA,9959.469605,606.440002,0,9959.469605,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+80,2021-05-25,GOOGL,9959.469605,2362.870117,0,9959.469605,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+81,2021-05-25,FB,9959.469605,327.790009,0,9959.469605,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+82,2021-05-25,MSFT,9959.469605,251.720001,0,9959.469605,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+83,2021-05-25,TSLA,9959.469605,604.690002,0,9959.469605,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+84,2021-05-26,GOOGL,9959.469605,2380.310059,0,9959.469605,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+85,2021-05-26,FB,9959.469605,327.660004,0,9959.469605,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+86,2021-05-26,MSFT,9959.469605,251.490005,0,9959.469605,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+87,2021-05-26,TSLA,9959.469605,619.130005,0,9959.469605,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+88,2021-05-27,FB,9959.469605,332.75,0,9959.469605,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+89,2021-05-27,MSFT,9959.469605,249.309998,0,9959.469605,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+90,2021-05-27,TSLA,9959.469605,630.849976,0,9959.469605,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+91,2021-05-27,GOOGL,508.7498770000002,2362.679932,4,9959.469605,Bought 4 of GOOGL for 2362.679932 because it's been growing for the past 3 days. New total is 9959.469605
+92,2021-05-28,GOOGL,5222.450073,2356.850098,2,9936.150269,"Sold half, 2, of stock GOOGL at 2356.850098 because it's platued for the past 3 days and it has an okay recent history. New total is 9936.150269"
+93,2021-05-28,FB,5222.450073,328.730011,0,9936.150269,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+94,2021-05-28,MSFT,5222.450073,249.679993,0,9936.150269,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+95,2021-05-28,TSLA,5222.450073,625.219971,0,9936.150269,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+96,2021-06-01,GOOGL,7603.630005,2381.179932,1,9984.809937,"Sold half, 1, of stock GOOGL at 2381.179932 because it's platued for the past 3 days and it has an okay recent history. New total is 9984.809937"
+97,2021-06-01,FB,7603.630005,329.130005,0,9984.809937,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+98,2021-06-01,MSFT,7603.630005,247.399994,0,9984.809937,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+99,2021-06-01,TSLA,7603.630005,623.900024,0,9984.809937,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+100,2021-06-02,GOOGL,9974.220093,2370.590088,0,9974.220093,"Sold half, 1, of stock GOOGL at 2370.590088 because it's platued for the past 3 days and it has an okay recent history. New total is 9974.220093"
+101,2021-06-02,FB,9974.220093,329.149994,0,9974.220093,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+102,2021-06-02,MSFT,9974.220093,247.300003,0,9974.220093,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+103,2021-06-02,TSLA,9974.220093,605.119995,0,9974.220093,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+104,2021-06-03,TSLA,9974.220093,572.840027,0,9974.220093,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+105,2021-06-03,GOOGL,9974.220093,2347.580078,0,9974.220093,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+106,2021-06-03,FB,9974.220093,326.040009,0,9974.220093,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+107,2021-06-03,MSFT,9974.220093,245.710007,0,9974.220093,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+108,2021-06-04,MSFT,9974.220093,250.789993,0,9974.220093,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+109,2021-06-04,TSLA,9974.220093,599.049988,0,9974.220093,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+110,2021-06-04,GOOGL,9974.220093,2393.570068,0,9974.220093,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+111,2021-06-04,FB,9974.220093,330.350006,0,9974.220093,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+112,2021-06-07,GOOGL,9974.220093,2402.300049,0,9974.220093,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+113,2021-06-07,FB,9974.220093,336.579987,0,9974.220093,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+114,2021-06-07,MSFT,9974.220093,253.809998,0,9974.220093,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+115,2021-06-07,TSLA,9974.220093,605.130005,0,9974.220093,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+116,2021-06-08,GOOGL,9974.220093,2398.439941,0,9974.220093,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+117,2021-06-08,FB,9974.220093,333.679993,0,9974.220093,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+118,2021-06-08,MSFT,9974.220093,252.570007,0,9974.220093,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+119,2021-06-08,TSLA,9974.220093,603.590027,0,9974.220093,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+120,2021-06-09,GOOGL,9974.220093,2407.939941,0,9974.220093,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+121,2021-06-09,FB,9974.220093,330.25,0,9974.220093,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+122,2021-06-09,MSFT,9974.220093,253.589996,0,9974.220093,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+123,2021-06-09,TSLA,9974.220093,598.780029,0,9974.220093,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+124,2021-06-10,GOOGL,9974.220093,2435.129883,0,9974.220093,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+125,2021-06-10,FB,9974.220093,332.459991,0,9974.220093,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+126,2021-06-10,MSFT,9974.220093,257.23999,0,9974.220093,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+127,2021-06-10,TSLA,9974.220093,610.119995,0,9974.220093,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+128,2021-06-11,GOOGL,9974.220093,2430.199951,0,9974.220093,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+129,2021-06-11,FB,9974.220093,331.26001,0,9974.220093,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+130,2021-06-11,MSFT,9974.220093,257.890015,0,9974.220093,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+131,2021-06-11,TSLA,9974.220093,609.890015,0,9974.220093,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+132,2021-06-14,GOOGL,9974.220093,2448.909912,0,9974.220093,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+133,2021-06-14,FB,9974.220093,336.769989,0,9974.220093,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+134,2021-06-14,TSLA,9974.220093,617.690002,0,9974.220093,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+135,2021-06-14,MSFT,98.39952300000004,259.890015,38,9974.220093,Bought 38 of MSFT for 259.890015 because it's been growing for the past 3 days. New total is 9974.220093
+136,2021-06-15,GOOGL,98.39952300000004,2428.389893,0,9916.078953,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+137,2021-06-15,FB,98.39952300000004,336.75,0,9916.078953,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+138,2021-06-15,TSLA,98.39952300000004,599.359985,0,9916.078953,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+139,2021-06-15,MSFT,98.39952300000004,258.359985,38,9916.078953,Didn't do buy any of MSFT even though it's growing because we don't currently have the money
+140,2021-06-16,GOOGL,98.39952300000004,2415.449951,0,9878.839713,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+141,2021-06-16,FB,98.39952300000004,331.079987,0,9878.839713,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+142,2021-06-16,MSFT,4988.619618,257.380005,19,9878.839713,"Sold half, 19, of stock MSFT at 257.380005 because it's platued for the past 3 days and it has an okay recent history. New total is 9878.839713"
+143,2021-06-16,TSLA,4988.619618,604.869995,0,9878.839713,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+144,2021-06-17,GOOGL,4988.619618,2434.870117,0,9945.719504,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+145,2021-06-17,FB,4988.619618,336.51001,0,9945.719504,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+146,2021-06-17,MSFT,7336.719563999999,260.899994,10,9945.719503999999,"Sold half, 9, of stock MSFT at 260.899994 because it's platued for the past 3 days and it has an okay recent history. New total is 9945.719503999999"
+147,2021-06-17,TSLA,7336.719563999999,616.599976,0,9945.719503999999,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+148,2021-06-18,GOOGL,7336.719563999999,2402.219971,0,9931.019494,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+149,2021-06-18,FB,7336.719563999999,329.660004,0,9931.019494,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+150,2021-06-18,MSFT,8633.869529,259.429993,5,9931.019494,"Sold half, 5, of stock MSFT at 259.429993 because it's platued for the past 3 days and it has an okay recent history. New total is 9931.019494"
+151,2021-06-18,TSLA,8633.869529,623.309998,0,9931.019494,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+152,2021-06-21,GOOGL,8633.869529,2436.25,0,9947.019553999999,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+153,2021-06-21,FB,8633.869529,332.290009,0,9947.019553999999,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+154,2021-06-21,MSFT,9159.129539,262.630005,3,9947.019553999999,"Sold half, 2, of stock MSFT at 262.630005 because it's platued for the past 3 days and it has an okay recent history. New total is 9947.019553999999"
+155,2021-06-21,TSLA,467.50930100000005,620.830017,14,9947.019554,Bought 14 of TSLA for 620.830017 because it's been growing for the past 3 days. New total is 9947.019554
+156,2021-06-22,GOOGL,467.50930100000005,2446.610107,0,9995.979639,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+157,2021-06-22,FB,467.50930100000005,339.029999,0,9995.979639,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+158,2021-06-22,MSFT,733.019311,265.51001,2,9995.979639,"Sold half, 1, of stock MSFT at 265.51001 because it's platued for the past 3 days and it has an okay recent history. New total is 9995.979639"
+159,2021-06-22,TSLA,5098.989465,623.710022,7,9995.979639,"Sold half, 7, of stock TSLA at 623.710022 because it's platued for the past 3 days and it has an okay recent history. New total is 9995.979639"
+160,2021-06-23,GOOGL,5098.989465,2442.540039,0,10225.519492,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+161,2021-06-23,FB,5098.989465,340.589996,0,10225.519492,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+162,2021-06-23,MSFT,5364.259454,265.269989,1,10225.519492,"Sold half, 1, of stock MSFT at 265.269989 because it's platued for the past 3 days and it has an okay recent history. New total is 10225.519492"
+163,2021-06-23,TSLA,7333.969475,656.570007,4,10225.519492,"Sold half, 3, of stock TSLA at 656.570007 because it's platued for the past 3 days and it has an okay recent history. New total is 10225.519492"
+164,2021-06-24,GOOGL,7333.969475,2450.0,0,10319.939505,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+165,2021-06-24,MSFT,7600.659477,266.690002,0,10319.939505,"Sold half, 1, of stock MSFT at 266.690002 because it's platued for the past 3 days and it has an okay recent history. New total is 10319.939505"
+166,2021-06-24,TSLA,8960.299491,679.820007,2,10319.939505,"Sold half, 2, of stock TSLA at 679.820007 because it's platued for the past 3 days and it has an okay recent history. New total is 10319.939505"
+167,2021-06-24,FB,37.61967299999924,343.179993,26,10319.939505,Bought 26 of FB for 343.179993 because it's been growing for the past 3 days. New total is 10319.939505
+168,2021-06-25,GOOGL,37.61967299999924,2450.169922,0,10256.979533,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+169,2021-06-25,MSFT,37.61967299999924,265.019989,0,10256.979533,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+170,2021-06-25,FB,37.61967299999924,341.369995,26,10256.979533,Didn't do buy any of FB even though it's growing because we don't currently have the money
+171,2021-06-25,TSLA,37.61967299999924,671.869995,2,10256.979533,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+172,2021-06-28,GOOGL,37.61967299999924,2450.719971,0,10661.700005,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+173,2021-06-28,FB,4660.9398679999995,355.640015,13,10661.700005,"Sold half, 13, of stock FB at 355.640015 because it's platued for the past 3 days and it has an okay recent history. New total is 10661.700005"
+174,2021-06-28,MSFT,4660.9398679999995,268.720001,0,10661.700005,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+175,2021-06-28,TSLA,5349.659839,688.719971,1,10661.700005,"Sold half, 1, of stock TSLA at 688.719971 because it's platued for the past 3 days and it has an okay recent history. New total is 10661.700005"
+176,2021-06-29,FB,7460.999929,351.890015,7,10604.990044,"Sold half, 6, of stock FB at 351.890015 because it's platued for the past 3 days and it has an okay recent history. New total is 10604.990044"
+177,2021-06-29,MSFT,7460.999929,271.399994,0,10604.990044,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+178,2021-06-29,TSLA,8141.759939,680.76001,0,10604.990044,"Sold half, 1, of stock TSLA at 680.76001 because it's platued for the past 3 days and it has an okay recent history. New total is 10604.990044"
+179,2021-06-29,GOOGL,805.4100859999999,2445.449951,3,10604.990044,Bought 3 of GOOGL for 2445.449951 because it's been growing for the past 3 days. New total is 10604.990044
+180,2021-06-30,GOOGL,3247.200125,2441.790039,2,10564.75014,"Sold half, 1, of stock GOOGL at 2441.790039 because it's platued for the past 3 days and it has an okay recent history. New total is 10564.75014"
+181,2021-06-30,FB,4290.330098,347.709991,4,10564.75014,"Sold half, 3, of stock FB at 347.709991 because it's platued for the past 3 days and it has an okay recent history. New total is 10564.75014"
+182,2021-06-30,MSFT,4290.330098,270.899994,0,10564.75014,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+183,2021-06-30,TSLA,4290.330098,679.700012,0,10564.75014,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+184,2021-07-01,GOOGL,6739.219991,2448.889893,1,10605.669944,"Sold half, 1, of stock GOOGL at 2448.889893 because it's platued for the past 3 days and it has an okay recent history. New total is 10605.669944"
+185,2021-07-01,FB,7448.000021,354.390015,2,10605.669944,"Sold half, 2, of stock FB at 354.390015 because it's platued for the past 3 days and it has an okay recent history. New total is 10605.669944"
+186,2021-07-01,MSFT,7448.000021,271.600006,0,10605.669944,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+187,2021-07-01,TSLA,7448.000021,677.919983,0,10605.669944,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+188,2021-07-02,TSLA,7448.000021,678.900024,0,10662.549947,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+189,2021-07-02,GOOGL,9953.149923,2505.149902,0,10662.549947000001,"Sold half, 1, of stock GOOGL at 2505.149902 because it's platued for the past 3 days and it has an okay recent history. New total is 10662.549947000001"
+190,2021-07-02,FB,10307.849935,354.700012,1,10662.549947,"Sold half, 1, of stock FB at 354.700012 because it's platued for the past 3 days and it has an okay recent history. New total is 10662.549947"
+191,2021-07-02,MSFT,10307.849935,277.649994,0,10662.549947,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+192,2021-07-06,GOOGL,10307.849935,2523.800049,0,10660.629934,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+193,2021-07-06,FB,10660.629934,352.779999,0,10660.629934,"Sold half, 1, of stock FB at 352.779999 because it's platued for the past 3 days and it has an okay recent history. New total is 10660.629934"
+194,2021-07-06,MSFT,10660.629934,277.660004,0,10660.629934,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+195,2021-07-06,TSLA,10660.629934,659.580017,0,10660.629934,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+196,2021-07-07,FB,10660.629934,350.48999,0,10660.629934,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+197,2021-07-07,TSLA,10660.629934,644.650024,0,10660.629934,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+198,2021-07-07,GOOGL,5601.669974,2529.47998,2,10660.629934,Bought 2 of GOOGL for 2529.47998 because it's been growing for the past 3 days. New total is 10660.629934
+199,2021-07-07,MSFT,283.00010699999984,279.929993,19,10660.629934,Bought 19 of MSFT for 279.929993 because it's been growing for the past 3 days. New total is 10660.629934
+200,2021-07-08,FB,283.00010699999984,345.649994,0,10555.740119999999,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+201,2021-07-08,TSLA,283.00010699999984,652.809998,0,10555.740119999999,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+202,2021-07-08,GOOGL,283.00010699999984,2500.879883,2,10555.740119999999,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+203,2021-07-08,MSFT,283.00010699999984,277.420013,19,10555.740119999999,Didn't do buy any of MSFT even though it's growing because we don't currently have the money
+204,2021-07-09,FB,283.00010699999984,350.420013,0,10584.600379,Didn't do anything for FB since it's falling and we have own none of its stocks
+205,2021-07-09,GOOGL,2793.370224,2510.370117,1,10584.600379,"Sold half, 1, of stock GOOGL at 2510.370117 because it's platued for the past 3 days and it has an okay recent history. New total is 10584.600379"
+206,2021-07-09,MSFT,5294.830242,277.940002,10,10584.600379,"Sold half, 9, of stock MSFT at 277.940002 because it's platued for the past 3 days and it has an okay recent history. New total is 10584.600379"
+207,2021-07-09,TSLA,5294.830242,656.950012,0,10584.600379,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+208,2021-07-12,GOOGL,7834.340252,2539.51001,0,10607.540322,"Sold half, 1, of stock GOOGL at 2539.51001 because it's platued for the past 3 days and it has an okay recent history. New total is 10607.540322"
+209,2021-07-12,FB,7834.340252,353.160004,0,10607.540322,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+210,2021-07-12,MSFT,9220.940287,277.320007,5,10607.540321999999,"Sold half, 5, of stock MSFT at 277.320007 because it's platued for the past 3 days and it has an okay recent history. New total is 10607.540321999999"
+211,2021-07-12,TSLA,9220.940287,685.700012,0,10607.540321999999,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+212,2021-07-13,GOOGL,9220.940287,2546.830078,0,10625.840342,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+213,2021-07-13,FB,9220.940287,352.089996,0,10625.840342,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+214,2021-07-13,MSFT,9782.900308999999,280.980011,3,10625.840342,"Sold half, 2, of stock MSFT at 280.980011 because it's platued for the past 3 days and it has an okay recent history. New total is 10625.840342"
+215,2021-07-13,TSLA,423.340616999998,668.539978,14,10625.840342,Bought 14 of TSLA for 668.539978 because it's been growing for the past 3 days. New total is 10625.840342
+216,2021-07-14,FB,423.340616999998,347.630005,0,10418.190716999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+217,2021-07-14,MSFT,705.850626999998,282.51001,2,10418.190716999998,"Sold half, 1, of stock MSFT at 282.51001 because it's platued for the past 3 days and it has an okay recent history. New total is 10418.190716999998"
+218,2021-07-14,TSLA,5279.510661999998,653.380005,7,10418.190716999998,"Sold half, 7, of stock TSLA at 653.380005 because it's platued for the past 3 days and it has an okay recent history. New total is 10418.190716999998"
+219,2021-07-14,GOOGL,150.0306819999978,2564.73999,2,10418.190716999998,Bought 2 of GOOGL for 2564.73999 because it's been growing for the past 3 days. New total is 10418.190716999998
+220,2021-07-15,FB,150.0306819999978,344.459991,0,10346.490707999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+221,2021-07-15,MSFT,431.06068099999777,281.029999,1,10346.490707999998,"Sold half, 1, of stock MSFT at 281.029999 because it's platued for the past 3 days and it has an okay recent history. New total is 10346.490707999998"
+222,2021-07-15,TSLA,2382.8606089999976,650.599976,4,10346.490707999998,"Sold half, 3, of stock TSLA at 650.599976 because it's platued for the past 3 days and it has an okay recent history. New total is 10346.490707999998"
+223,2021-07-15,GOOGL,2382.8606089999976,2540.100098,2,10346.490707999998,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+224,2021-07-16,FB,2382.8606089999976,341.160004,0,10319.290296999998,Didn't do anything for FB since it's falling and we have own none of its stocks
+225,2021-07-16,TSLA,4959.7404929999975,644.219971,0,10319.290296999998,Sold all 4 of stock TSLA at 644.219971 because it's been falling for 3 consecutive days. New total is 10319.290296999998
+226,2021-07-16,GOOGL,7499.140394999998,2539.399902,1,10319.290296999998,"Sold half, 1, of stock GOOGL at 2539.399902 because it's platued for the past 3 days and it has an okay recent history. New total is 10319.290296999998"
+227,2021-07-16,MSFT,7779.890394999998,280.75,0,10319.290296999998,"Sold half, 1, of stock MSFT at 280.75 because it's platued for the past 3 days and it has an okay recent history. New total is 10319.290296999998"
+228,2021-07-19,FB,7779.890394999998,336.950012,0,10271.450453999998,Didn't do anything for FB since it's falling and we have own none of its stocks
+229,2021-07-19,TSLA,7779.890394999998,646.219971,0,10271.450453999998,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+230,2021-07-19,GOOGL,10271.450453999998,2491.560059,0,10271.450453999998,"Sold half, 1, of stock GOOGL at 2491.560059 because it's platued for the past 3 days and it has an okay recent history. New total is 10271.450453999998"
+231,2021-07-19,MSFT,10271.450453999998,277.01001,0,10271.450453999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+232,2021-07-20,GOOGL,10271.450453999998,2524.189941,0,10271.450453999998,Didn't do anything for GOOGL since it's falling and we have own none of its stocks
+233,2021-07-20,FB,10271.450453999998,341.660004,0,10271.450453999998,Didn't do anything for FB since it's falling and we have own none of its stocks
+234,2021-07-20,MSFT,10271.450453999998,279.320007,0,10271.450453999998,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+235,2021-07-20,TSLA,10271.450453999998,660.5,0,10271.450453999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+236,2021-07-21,GOOGL,10271.450453999998,2550.97998,0,10271.450453999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+237,2021-07-21,FB,10271.450453999998,346.230011,0,10271.450453999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+238,2021-07-21,MSFT,10271.450453999998,281.399994,0,10271.450453999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+239,2021-07-21,TSLA,10271.450453999998,655.289978,0,10271.450453999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+240,2021-07-22,GOOGL,10271.450453999998,2568.429932,0,10271.450453999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+241,2021-07-22,FB,10271.450453999998,351.190002,0,10271.450453999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+242,2021-07-22,MSFT,10271.450453999998,286.140015,0,10271.450453999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+243,2021-07-22,TSLA,10271.450453999998,649.26001,0,10271.450453999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+244,2021-07-23,TSLA,10271.450453999998,643.380005,0,10271.450453999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+245,2021-07-23,GOOGL,7611.1504049999985,2660.300049,1,10271.450453999998,Bought 1 of GOOGL for 2660.300049 because it's been growing for the past 3 days. New total is 10271.450453999998
+246,2021-07-23,FB,4283.040323999999,369.790009,9,10271.450453999998,Bought 9 of FB for 369.790009 because it's been growing for the past 3 days. New total is 10271.450453999998
+247,2021-07-23,MSFT,1096.670180999999,289.670013,11,10271.450454,Bought 11 of MSFT for 289.670013 because it's been growing for the past 3 days. New total is 10271.450454
+248,2021-07-26,TSLA,1096.670180999999,657.619995,0,10309.059919,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+249,2021-07-26,GOOGL,1096.670180999999,2680.699951,1,10309.059919,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+250,2021-07-26,FB,1096.670180999999,372.459991,9,10309.059919,Didn't do buy any of FB even though it's growing because we don't currently have the money
+251,2021-07-26,MSFT,807.6201929999991,289.049988,12,10309.059919,Bought 1 of MSFT for 289.049988 because it's been growing for the past 3 days. New total is 10309.059919
+252,2021-07-27,MSFT,2526.8602469999987,286.540009,6,10194.390282999999,"Sold half, 6, of stock MSFT at 286.540009 because it's platued for the past 3 days and it has an okay recent history. New total is 10194.390282999999"
+253,2021-07-27,TSLA,2526.8602469999987,644.780029,0,10194.390282999999,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+254,2021-07-27,GOOGL,2526.8602469999987,2638.0,1,10194.390282999999,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+255,2021-07-27,FB,1423.4302529999986,367.809998,12,10194.390282999999,Bought 3 of FB for 367.809998 because it's been growing for the past 3 days. New total is 10194.390282999999
+256,2021-07-28,GOOGL,4145.310135999998,2721.879883,0,10341.990129999998,"Sold half, 1, of stock GOOGL at 2721.879883 because it's platued for the past 3 days and it has an okay recent history. New total is 10341.990129999998"
+257,2021-07-28,FB,6384.990129999998,373.279999,6,10341.990129999998,"Sold half, 6, of stock FB at 373.279999 because it's platued for the past 3 days and it has an okay recent history. New total is 10341.990129999998"
+258,2021-07-28,MSFT,7243.650132999998,286.220001,3,10341.990129999998,"Sold half, 3, of stock MSFT at 286.220001 because it's platued for the past 3 days and it has an okay recent history. New total is 10341.990129999998"
+259,2021-07-28,TSLA,7243.650132999998,646.97998,0,10341.990129999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+260,2021-07-29,MSFT,8103.150132999998,286.5,0,10253.070174999997,Sold all 3 of stock MSFT at 286.5 because it's been falling for 3 consecutive days. New total is 10253.070174999997
+261,2021-07-29,GOOGL,8103.150132999998,2715.550049,0,10253.070174999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+262,2021-07-29,FB,9178.110153999998,358.320007,3,10253.070174999997,"Sold half, 3, of stock FB at 358.320007 because it's platued for the past 3 days and it has an okay recent history. New total is 10253.070174999997"
+263,2021-07-29,TSLA,9178.110153999998,677.349976,0,10253.070174999997,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+264,2021-07-30,GOOGL,9178.110153999998,2694.530029,0,10247.010117999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+265,2021-07-30,FB,9534.410141999999,356.299988,2,10247.010117999998,"Sold half, 1, of stock FB at 356.299988 because it's platued for the past 3 days and it has an okay recent history. New total is 10247.010117999998"
+266,2021-07-30,MSFT,9534.410141999999,284.910004,0,10247.010117999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+267,2021-07-30,TSLA,9534.410141999999,687.200012,0,10247.010117999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+268,2021-08-02,GOOGL,9534.410141999999,2697.090088,0,10238.310166,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+269,2021-08-02,FB,9886.360153999998,351.950012,1,10238.310165999997,"Sold half, 1, of stock FB at 351.950012 because it's platued for the past 3 days and it has an okay recent history. New total is 10238.310165999997"
+270,2021-08-02,MSFT,9886.360153999998,284.820007,0,10238.310165999997,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+271,2021-08-02,TSLA,660.6503749999974,709.669983,13,10238.310165999997,Bought 13 of TSLA for 709.669983 because it's been growing for the past 3 days. New total is 10238.310165999997
+272,2021-08-03,FB,1011.8903649999975,351.23999,0,10238.510234999998,Sold all 1 of stock FB at 351.23999 because it's been falling for 3 consecutive days. New total is 10238.510234999998
+273,2021-08-03,GOOGL,1011.8903649999975,2712.600098,0,10238.510234999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+274,2021-08-03,MSFT,1011.8903649999975,287.119995,0,10238.510234999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+275,2021-08-03,TSLA,302.15037499999744,709.73999,14,10238.510234999998,Bought 1 of TSLA for 709.73999 because it's been growing for the past 3 days. New total is 10238.510234999998
+276,2021-08-04,FB,302.15037499999744,358.920013,0,10255.030136999998,Didn't do anything for FB since it's falling and we have own none of its stocks
+277,2021-08-04,GOOGL,302.15037499999744,2702.51001,0,10255.030136999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+278,2021-08-04,MSFT,302.15037499999744,286.51001,0,10255.030136999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+279,2021-08-04,TSLA,302.15037499999744,710.919983,14,10255.030136999998,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+280,2021-08-05,GOOGL,302.15037499999744,2725.030029,0,10306.970444999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+281,2021-08-05,FB,302.15037499999744,362.970001,0,10306.970444999997,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+282,2021-08-05,MSFT,302.15037499999744,289.519989,0,10306.970444999997,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+283,2021-08-05,TSLA,302.15037499999744,714.630005,14,10306.970444999997,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+284,2021-08-06,GOOGL,302.15037499999744,2714.77002,0,10089.550038999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+285,2021-08-06,FB,302.15037499999744,363.51001,0,10089.550038999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+286,2021-08-06,MSFT,302.15037499999744,289.459991,0,10089.550038999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+287,2021-08-06,TSLA,302.15037499999744,699.099976,14,10089.550038999998,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+288,2021-08-09,GOOGL,302.15037499999744,2738.26001,0,10294.790514999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+289,2021-08-09,MSFT,302.15037499999744,288.329987,0,10294.790514999997,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+290,2021-08-09,TSLA,5298.470444999997,713.76001,7,10294.790514999997,"Sold half, 7, of stock TSLA at 713.76001 because it's platued for the past 3 days and it has an okay recent history. New total is 10294.790514999997"
+291,2021-08-09,FB,235.9306549999974,361.609985,14,10294.790514999997,Bought 14 of FB for 361.609985 because it's been growing for the past 3 days. New total is 10294.790514999997
+292,2021-08-10,GOOGL,235.9306549999974,2736.139893,0,10261.680654999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+293,2021-08-10,FB,2763.8406899999973,361.130005,7,10261.680654999996,"Sold half, 7, of stock FB at 361.130005 because it's platued for the past 3 days and it has an okay recent history. New total is 10261.680654999996"
+294,2021-08-10,MSFT,2763.8406899999973,286.440002,0,10261.680654999996,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+295,2021-08-10,TSLA,4893.810659999997,709.98999,4,10261.680654999996,"Sold half, 3, of stock TSLA at 709.98999 because it's platued for the past 3 days and it has an okay recent history. New total is 10261.680654999996"
+296,2021-08-11,MSFT,4893.810659999997,286.950012,0,10244.810624999998,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+297,2021-08-11,GOOGL,4893.810659999997,2725.580078,0,10244.810624999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+298,2021-08-11,FB,5973.690632999997,359.959991,4,10244.810624999998,"Sold half, 3, of stock FB at 359.959991 because it's platued for the past 3 days and it has an okay recent history. New total is 10244.810624999998"
+299,2021-08-11,TSLA,7389.330646999997,707.820007,2,10244.810624999996,"Sold half, 2, of stock TSLA at 707.820007 because it's platued for the past 3 days and it has an okay recent history. New total is 10244.810624999996"
+300,2021-08-12,FB,8839.930622999997,362.649994,0,10284.430622999997,Sold all 4 of stock FB at 362.649994 because it's been falling for 3 consecutive days. New total is 10284.430622999997
+301,2021-08-12,GOOGL,8839.930622999997,2743.879883,0,10284.430622999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+302,2021-08-12,MSFT,8839.930622999997,289.809998,0,10284.430622999997,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+303,2021-08-12,TSLA,9562.180622999997,722.25,1,10284.430622999997,"Sold half, 1, of stock TSLA at 722.25 because it's platued for the past 3 days and it has an okay recent history. New total is 10284.430622999997"
+304,2021-08-13,GOOGL,9562.180622999997,2754.550049,0,10279.350605999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+305,2021-08-13,FB,9562.180622999997,363.179993,0,10279.350605999996,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+306,2021-08-13,MSFT,9562.180622999997,292.850006,0,10279.350605999996,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+307,2021-08-13,TSLA,10279.350605999996,717.169983,0,10279.350605999996,"Sold half, 1, of stock TSLA at 717.169983 because it's platued for the past 3 days and it has an okay recent history. New total is 10279.350605999996"
+308,2021-08-16,GOOGL,10279.350605999996,2766.189941,0,10279.350605999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+309,2021-08-16,FB,10279.350605999996,366.559998,0,10279.350605999996,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+310,2021-08-16,TSLA,10279.350605999996,686.169983,0,10279.350605999996,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+311,2021-08-16,MSFT,262.95040199999676,294.600006,34,10279.350605999996,Bought 34 of MSFT for 294.600006 because it's been growing for the past 3 days. New total is 10279.350605999996
+312,2021-08-17,TSLA,262.95040199999676,665.710022,0,10227.669959999997,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+313,2021-08-17,GOOGL,262.95040199999676,2733.22998,0,10227.669959999997,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+314,2021-08-17,FB,262.95040199999676,358.450012,0,10227.669959999997,Didn't do buy any of FB even though it's growing because we don't currently have the money
+315,2021-08-17,MSFT,262.95040199999676,293.079987,34,10227.669959999997,Didn't do buy any of MSFT even though it's growing because we don't currently have the money
+316,2021-08-18,TSLA,262.95040199999676,688.98999,0,10147.770775999996,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+317,2021-08-18,GOOGL,262.95040199999676,2708.97998,0,10147.770775999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+318,2021-08-18,FB,262.95040199999676,355.450012,0,10147.770775999996,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+319,2021-08-18,MSFT,5205.360588999996,290.730011,17,10147.770775999996,"Sold half, 17, of stock MSFT at 290.730011 because it's platued for the past 3 days and it has an okay recent history. New total is 10147.770775999996"
+320,2021-08-19,GOOGL,5205.360588999996,2713.600098,0,10250.450401999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+321,2021-08-19,FB,5205.360588999996,355.119995,0,10250.450401999997,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+322,2021-08-19,MSFT,7579.520500999996,296.769989,9,10250.450401999997,"Sold half, 8, of stock MSFT at 296.769989 because it's platued for the past 3 days and it has an okay recent history. New total is 10250.450401999997"
+323,2021-08-19,TSLA,7579.520500999996,673.469971,0,10250.450401999997,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+324,2021-08-20,FB,7579.520500999996,359.369995,0,10318.760365999997,Didn't do anything for FB since it's falling and we have own none of its stocks
+325,2021-08-20,GOOGL,7579.520500999996,2748.590088,0,10318.760365999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+326,2021-08-20,MSFT,8796.960440999996,304.359985,5,10318.760365999995,"Sold half, 4, of stock MSFT at 304.359985 because it's platued for the past 3 days and it has an okay recent history. New total is 10318.760365999995"
+327,2021-08-20,TSLA,8796.960440999996,680.26001,0,10318.760365999995,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+328,2021-08-23,GOOGL,8796.960440999996,2800.830078,0,10320.210410999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+329,2021-08-23,FB,8796.960440999996,363.350006,0,10320.210410999996,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+330,2021-08-23,MSFT,9406.260428999996,304.649994,3,10320.210410999996,"Sold half, 2, of stock MSFT at 304.649994 because it's platued for the past 3 days and it has an okay recent history. New total is 10320.210410999996"
+331,2021-08-23,TSLA,9406.260428999996,706.299988,0,10320.210410999996,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+332,2021-08-24,FB,9406.260428999996,365.51001,0,10314.120413999997,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+333,2021-08-24,TSLA,9406.260428999996,708.48999,0,10314.120413999997,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+334,2021-08-24,GOOGL,6581.030448999996,2825.22998,1,10314.120413999997,Bought 1 of GOOGL for 2825.22998 because it's been growing for the past 3 days. New total is 10314.120413999997
+335,2021-08-24,MSFT,2041.730523999996,302.619995,18,10314.120413999997,Bought 15 of MSFT for 302.619995 because it's been growing for the past 3 days. New total is 10314.120413999997
+336,2021-08-25,MSFT,4759.820613999997,302.01001,9,10319.490781999997,"Sold half, 9, of stock MSFT at 302.01001 because it's platued for the past 3 days and it has an okay recent history. New total is 10319.490781999997"
+337,2021-08-25,GOOGL,4759.820613999997,2841.580078,1,10319.490781999997,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+338,2021-08-25,FB,3286.260553999997,368.390015,4,10319.490781999997,Bought 4 of FB for 368.390015 because it's been growing for the past 3 days. New total is 10319.490781999997
+339,2021-08-25,TSLA,1863.8605299999967,711.200012,2,10319.490781999997,Bought 2 of TSLA for 711.200012 because it's been growing for the past 3 days. New total is 10319.490781999997
+340,2021-08-26,MSFT,3060.220513999997,299.089996,5,10244.320518999997,"Sold half, 4, of stock MSFT at 299.089996 because it's platued for the past 3 days and it has an okay recent history. New total is 10244.320518999997"
+341,2021-08-26,GOOGL,3060.220513999997,2828.810059,1,10244.320518999997,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+342,2021-08-26,FB,2331.460503999997,364.380005,6,10244.320518999997,Bought 2 of FB for 364.380005 because it's been growing for the past 3 days. New total is 10244.320518999997
+343,2021-08-26,TSLA,1630.300530999997,701.159973,3,10244.320518999997,Bought 1 of TSLA for 701.159973 because it's been growing for the past 3 days. New total is 10244.320518999997
+344,2021-08-27,MSFT,3128.9005359999974,299.720001,0,10380.520592999997,Sold all 5 of stock MSFT at 299.720001 because it's been falling for 3 consecutive days. New total is 10380.520592999997
+345,2021-08-27,GOOGL,6008.980613999997,2880.080078,0,10380.520592999997,"Sold half, 1, of stock GOOGL at 2880.080078 because it's platued for the past 3 days and it has an okay recent history. New total is 10380.520592999997"
+346,2021-08-27,FB,7126.870628999997,372.630005,3,10380.520592999997,"Sold half, 3, of stock FB at 372.630005 because it's platued for the past 3 days and it has an okay recent history. New total is 10380.520592999997"
+347,2021-08-27,TSLA,7838.790611999997,711.919983,2,10380.520592999997,"Sold half, 1, of stock TSLA at 711.919983 because it's platued for the past 3 days and it has an okay recent history. New total is 10380.520592999997"
+348,2021-08-30,GOOGL,7838.790611999997,2891.810059,0,10442.590569999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+349,2021-08-30,FB,8219.450615999996,380.660004,2,10442.590569999997,"Sold half, 1, of stock FB at 380.660004 because it's platued for the past 3 days and it has an okay recent history. New total is 10442.590569999997"
+350,2021-08-30,MSFT,8219.450615999996,303.589996,0,10442.590569999997,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+351,2021-08-30,TSLA,8950.360588999996,730.909973,1,10442.590569999997,"Sold half, 1, of stock TSLA at 730.909973 because it's platued for the past 3 days and it has an okay recent history. New total is 10442.590569999997"
+352,2021-08-31,GOOGL,8950.360588999996,2893.949951,0,10444.840569999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+353,2021-08-31,FB,9329.740593999995,379.380005,1,10444.840569999995,"Sold half, 1, of stock FB at 379.380005 because it's platued for the past 3 days and it has an okay recent history. New total is 10444.840569999995"
+354,2021-08-31,MSFT,9329.740593999995,301.880005,0,10444.840569999995,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+355,2021-08-31,TSLA,10065.460564999996,735.719971,0,10444.840569999997,"Sold half, 1, of stock TSLA at 735.719971 because it's platued for the past 3 days and it has an okay recent history. New total is 10444.840569999997"
+356,2021-09-01,FB,10447.510552999996,382.049988,0,10447.510552999996,"Sold half, 1, of stock FB at 382.049988 because it's platued for the past 3 days and it has an okay recent history. New total is 10447.510552999996"
+357,2021-09-01,MSFT,10447.510552999996,301.829987,0,10447.510552999996,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+358,2021-09-01,GOOGL,7543.200493999997,2904.310059,1,10447.510552999996,Bought 1 of GOOGL for 2904.310059 because it's been growing for the past 3 days. New total is 10447.510552999996
+359,2021-09-01,TSLA,2404.5703049999975,734.090027,7,10447.510552999996,Bought 7 of TSLA for 734.090027 because it's been growing for the past 3 days. New total is 10447.510552999996
+360,2021-09-02,FB,2404.5703049999975,375.279999,0,10397.040399999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+361,2021-09-02,MSFT,2404.5703049999975,301.149994,0,10397.040399999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+362,2021-09-02,TSLA,4601.740349999997,732.390015,4,10397.040399999998,"Sold half, 3, of stock TSLA at 732.390015 because it's platued for the past 3 days and it has an okay recent history. New total is 10397.040399999998"
+363,2021-09-02,GOOGL,1736.0003599999973,2865.73999,2,10397.040399999998,Bought 1 of GOOGL for 2865.73999 because it's been growing for the past 3 days. New total is 10397.040399999998
+364,2021-09-03,MSFT,1736.0003599999973,301.140015,0,10419.860465999998,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+365,2021-09-03,GOOGL,4610.790398999998,2874.790039,1,10419.860465999998,"Sold half, 1, of stock GOOGL at 2874.790039 because it's platued for the past 3 days and it has an okay recent history. New total is 10419.860465999998"
+366,2021-09-03,FB,4610.790398999998,376.26001,0,10419.860465999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+367,2021-09-03,TSLA,6077.930412999998,733.570007,2,10419.860465999998,"Sold half, 2, of stock TSLA at 733.570007 because it's platued for the past 3 days and it has an okay recent history. New total is 10419.860465999998"
+368,2021-09-07,MSFT,6077.930412999998,300.179993,0,10469.380485999998,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+369,2021-09-07,GOOGL,8963.540519999999,2885.610107,0,10469.380485999998,"Sold half, 1, of stock GOOGL at 2885.610107 because it's platued for the past 3 days and it has an okay recent history. New total is 10469.380485999998"
+370,2021-09-07,FB,8963.540519999999,382.179993,0,10469.380485999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+371,2021-09-07,TSLA,9716.460502999998,752.919983,1,10469.380485999998,"Sold half, 1, of stock TSLA at 752.919983 because it's platued for the past 3 days and it has an okay recent history. New total is 10469.380485999998"
+372,2021-09-08,MSFT,9716.460502999998,300.209991,0,10470.330498,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+373,2021-09-08,GOOGL,9716.460502999998,2873.820068,0,10470.330498,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+374,2021-09-08,FB,9716.460502999998,377.570007,0,10470.330498,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+375,2021-09-08,TSLA,10470.330498,753.869995,0,10470.330498,"Sold half, 1, of stock TSLA at 753.869995 because it's platued for the past 3 days and it has an okay recent history. New total is 10470.330498"
+376,2021-09-09,GOOGL,10470.330498,2870.820068,0,10470.330498,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+377,2021-09-09,FB,10470.330498,378.0,0,10470.330498,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+378,2021-09-09,MSFT,10470.330498,297.25,0,10470.330498,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+379,2021-09-09,TSLA,657.1506929999996,754.859985,13,10470.330498,Bought 13 of TSLA for 754.859985 because it's been growing for the past 3 days. New total is 10470.330498
+380,2021-09-10,GOOGL,657.1506929999996,2817.52002,0,10228.660953,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+381,2021-09-10,FB,657.1506929999996,378.690002,0,10228.660953,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+382,2021-09-10,MSFT,657.1506929999996,295.709991,0,10228.660953,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+383,2021-09-10,TSLA,657.1506929999996,736.27002,13,10228.660953,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+384,2021-09-13,GOOGL,657.1506929999996,2846.649902,0,10316.150693,Didn't do anything for GOOGL since it's falling and we have own none of its stocks
+385,2021-09-13,FB,657.1506929999996,376.51001,0,10316.150693,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+386,2021-09-13,MSFT,657.1506929999996,296.98999,0,10316.150693,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+387,2021-09-13,TSLA,5115.150693,743.0,7,10316.150693,"Sold half, 6, of stock TSLA at 743.0 because it's platued for the past 3 days and it has an okay recent history. New total is 10316.150693"
+388,2021-09-14,GOOGL,5115.150693,2850.889893,0,10326.580623,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+389,2021-09-14,FB,5115.150693,376.529999,0,10326.580623,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+390,2021-09-14,MSFT,5115.150693,299.790009,0,10326.580623,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+391,2021-09-14,TSLA,7348.620663,744.48999,4,10326.580623,"Sold half, 3, of stock TSLA at 744.48999 because it's platued for the past 3 days and it has an okay recent history. New total is 10326.580623"
+392,2021-09-15,GOOGL,7348.620663,2888.590088,0,10371.940730999999,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+393,2021-09-15,FB,7348.620663,373.920013,0,10371.940730999999,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+394,2021-09-15,MSFT,7348.620663,304.820007,0,10371.940730999999,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+395,2021-09-15,TSLA,8860.280697,755.830017,2,10371.940731,"Sold half, 2, of stock TSLA at 755.830017 because it's platued for the past 3 days and it has an okay recent history. New total is 10371.940731"
+396,2021-09-16,FB,8860.280697,373.059998,0,10374.260677,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+397,2021-09-16,GOOGL,5988.080746,2872.199951,1,10374.260677,Bought 1 of GOOGL for 2872.199951 because it's been growing for the past 3 days. New total is 10374.260677
+398,2021-09-16,MSFT,3241.1007369999993,305.220001,9,10374.260677,Bought 9 of MSFT for 305.220001 because it's been growing for the past 3 days. New total is 10374.260677
+399,2021-09-16,TSLA,970.1307669999992,756.98999,5,10374.260677,Bought 3 of TSLA for 756.98999 because it's been growing for the past 3 days. New total is 10374.260677
+400,2021-09-17,GOOGL,3786.130766999999,2816.0,0,10282.410671999998,"Sold half, 1, of stock GOOGL at 2816.0 because it's platued for the past 3 days and it has an okay recent history. New total is 10282.410671999998"
+401,2021-09-17,FB,3786.130766999999,364.720001,0,10282.410671999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+402,2021-09-17,MSFT,1986.910796999999,299.869995,15,10282.410671999998,Bought 6 of MSFT for 299.869995 because it's been growing for the past 3 days. New total is 10282.410671999998
+403,2021-09-17,TSLA,467.930816999999,759.48999,7,10282.410671999998,Bought 2 of TSLA for 759.48999 because it's been growing for the past 3 days. New total is 10282.410671999998
+404,2021-09-20,FB,467.930816999999,355.700012,0,9993.620517999998,Didn't do anything for FB since it's falling and we have own none of its stocks
+405,2021-09-20,GOOGL,467.930816999999,2774.389893,0,9993.620517999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+406,2021-09-20,MSFT,2528.030732999999,294.299988,8,9993.620517999998,"Sold half, 7, of stock MSFT at 294.299988 because it's platued for the past 3 days and it has an okay recent history. New total is 9993.620517999998"
+407,2021-09-20,TSLA,337.5207839999989,730.169983,10,9993.620517999998,Bought 3 of TSLA for 730.169983 because it's been growing for the past 3 days. New total is 9993.620517999998
+408,2021-09-21,GOOGL,337.5207839999989,2780.659912,0,10089.720737999998,Didn't do anything for GOOGL since it's falling and we have own none of its stocks
+409,2021-09-21,FB,337.5207839999989,357.480011,0,10089.720737999998,Didn't do anything for FB since it's falling and we have own none of its stocks
+410,2021-09-21,MSFT,1516.7207359999989,294.799988,4,10089.720738,"Sold half, 4, of stock MSFT at 294.799988 because it's platued for the past 3 days and it has an okay recent history. New total is 10089.720738"
+411,2021-09-21,TSLA,5213.620760999998,739.380005,5,10089.720738,"Sold half, 5, of stock TSLA at 739.380005 because it's platued for the past 3 days and it has an okay recent history. New total is 10089.720738"
+412,2021-09-22,GOOGL,5213.620760999998,2805.669922,0,10167.640718999999,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+413,2021-09-22,FB,5213.620760999998,343.209991,0,10167.640718999999,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+414,2021-09-22,MSFT,5810.7807349999985,298.579987,2,10167.640718999999,"Sold half, 2, of stock MSFT at 298.579987 because it's platued for the past 3 days and it has an okay recent history. New total is 10167.640718999999"
+415,2021-09-22,TSLA,7314.660738999999,751.940002,3,10167.640718999999,"Sold half, 2, of stock TSLA at 751.940002 because it's platued for the past 3 days and it has an okay recent history. New total is 10167.640718999999"
+416,2021-09-23,GOOGL,7314.660738999999,2824.320068,0,10174.70078,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+417,2021-09-23,FB,7314.660738999999,345.959991,0,10174.70078,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+418,2021-09-23,MSFT,7614.220736999999,299.559998,1,10174.70078,"Sold half, 1, of stock MSFT at 299.559998 because it's platued for the past 3 days and it has an okay recent history. New total is 10174.70078"
+419,2021-09-23,TSLA,8367.860751999999,753.640015,2,10174.70078,"Sold half, 1, of stock TSLA at 753.640015 because it's platued for the past 3 days and it has an okay recent history. New total is 10174.70078"
+420,2021-09-24,FB,8367.860751999999,352.959991,0,10215.990788,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+421,2021-09-24,GOOGL,8367.860751999999,2844.300049,0,10215.990788,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+422,2021-09-24,MSFT,5673.710697999999,299.350006,10,10215.990788,Bought 9 of MSFT for 299.350006 because it's been growing for the past 3 days. New total is 10215.990788
+423,2021-09-24,TSLA,3350.540652999999,774.390015,5,10215.990788,Bought 3 of TSLA for 774.390015 because it's been growing for the past 3 days. New total is 10215.990788
+424,2021-09-27,FB,3350.540652999999,353.579987,0,10249.040708,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+425,2021-09-27,MSFT,4821.390717999999,294.170013,5,10249.040708,"Sold half, 5, of stock MSFT at 294.170013 because it's platued for the past 3 days and it has an okay recent history. New total is 10249.040708"
+426,2021-09-27,GOOGL,4821.390717999999,2821.439941,0,10249.040708,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+427,2021-09-27,TSLA,2447.3107629999986,791.359985,8,10249.040708,Bought 3 of TSLA for 791.359985 because it's been growing for the past 3 days. New total is 10249.040708
+428,2021-09-28,GOOGL,2447.3107629999986,2716.600098,0,10085.390691999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+429,2021-09-28,MSFT,3014.3507409999984,283.519989,3,10085.390691999997,"Sold half, 2, of stock MSFT at 283.519989 because it's platued for the past 3 days and it has an okay recent history. New total is 10085.390691999997"
+430,2021-09-28,FB,1651.7507649999984,340.649994,4,10085.390691999999,Bought 4 of FB for 340.649994 because it's been growing for the past 3 days. New total is 10085.390691999999
+431,2021-09-28,TSLA,874.1907669999985,777.559998,9,10085.390691999999,Bought 1 of TSLA for 777.559998 because it's been growing for the past 3 days. New total is 10085.390691999999
+432,2021-09-29,MSFT,1726.1907669999985,284.0,0,10116.420688999997,Sold all 3 of stock MSFT at 284.0 because it's been falling for 3 consecutive days. New total is 10116.420688999997
+433,2021-09-29,GOOGL,1726.1907669999985,2687.070068,0,10116.420688999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+434,2021-09-29,FB,2405.4107369999983,339.609985,2,10116.420688999997,"Sold half, 2, of stock FB at 339.609985 because it's platued for the past 3 days and it has an okay recent history. New total is 10116.420688999997"
+435,2021-09-29,TSLA,5530.650728999998,781.309998,5,10116.420688999997,"Sold half, 4, of stock TSLA at 781.309998 because it's platued for the past 3 days and it has an okay recent history. New total is 10116.420688999997"
+436,2021-09-30,GOOGL,5530.650728999998,2673.52002,0,10086.830659,Didn't do anything for GOOGL since it's falling and we have own none of its stocks
+437,2021-09-30,FB,5870.040743999998,339.390015,1,10086.830659,"Sold half, 1, of stock FB at 339.390015 because it's platued for the past 3 days and it has an okay recent history. New total is 10086.830659"
+438,2021-09-30,MSFT,5870.040743999998,281.920013,0,10086.830659,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+439,2021-09-30,TSLA,7421.000703999998,775.47998,3,10086.830659,"Sold half, 2, of stock TSLA at 775.47998 because it's platued for the past 3 days and it has an okay recent history. New total is 10086.830659"
+440,2021-10-01,GOOGL,7421.000703999998,2730.860107,0,10089.670626999998,Didn't do anything for GOOGL since it's falling and we have own none of its stocks
+441,2021-10-01,FB,7764.010713999998,343.01001,0,10089.670626999998,Sold all 1 of stock FB at 343.01001 because it's been falling for 3 consecutive days. New total is 10089.670626999998
+442,2021-10-01,MSFT,7764.010713999998,289.100006,0,10089.670626999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+443,2021-10-01,TSLA,8539.230684999999,775.219971,2,10089.670627,"Sold half, 1, of stock TSLA at 775.219971 because it's platued for the past 3 days and it has an okay recent history. New total is 10089.670627"
+444,2021-10-04,GOOGL,8539.230684999999,2673.189941,0,10102.290742999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+445,2021-10-04,FB,8539.230684999999,326.230011,0,10102.290742999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+446,2021-10-04,MSFT,8539.230684999999,283.109985,0,10102.290742999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+447,2021-10-04,TSLA,9320.760713999998,781.530029,1,10102.290742999998,"Sold half, 1, of stock TSLA at 781.530029 because it's platued for the past 3 days and it has an okay recent history. New total is 10102.290742999998"
+448,2021-10-05,GOOGL,9320.760713999998,2720.459961,0,10101.350740999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+449,2021-10-05,FB,9320.760713999998,332.959991,0,10101.350740999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+450,2021-10-05,MSFT,9320.760713999998,288.76001,0,10101.350740999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+451,2021-10-05,TSLA,10101.350740999998,780.590027,0,10101.350740999998,"Sold half, 1, of stock TSLA at 780.590027 because it's platued for the past 3 days and it has an okay recent history. New total is 10101.350740999998"
+452,2021-10-06,GOOGL,10101.350740999998,2751.300049,0,10101.350740999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+453,2021-10-06,FB,10101.350740999998,333.640015,0,10101.350740999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+454,2021-10-06,MSFT,10101.350740999998,293.109985,0,10101.350740999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+455,2021-10-06,TSLA,10101.350740999998,782.75,0,10101.350740999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+456,2021-10-07,GOOGL,10101.350740999998,2784.5,0,10101.350740999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+457,2021-10-07,FB,10101.350740999998,329.220001,0,10101.350740999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+458,2021-10-07,MSFT,10101.350740999998,294.850006,0,10101.350740999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+459,2021-10-07,TSLA,10101.350740999998,793.609985,0,10101.350740999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+460,2021-10-08,FB,10101.350740999998,330.049988,0,10101.350740999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+461,2021-10-08,TSLA,10101.350740999998,785.48999,0,10101.350740999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+462,2021-10-08,GOOGL,7305.640779999998,2795.709961,1,10101.350740999998,Bought 1 of GOOGL for 2795.709961 because it's been growing for the past 3 days. New total is 10101.350740999998
+463,2021-10-08,MSFT,2293.190677999998,294.850006,17,10101.350740999998,Bought 17 of MSFT for 294.850006 because it's been growing for the past 3 days. New total is 10101.350740999998
+464,2021-10-11,FB,2293.190677999998,325.450012,0,10073.380893999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+465,2021-10-11,MSFT,4647.030765999998,294.230011,9,10073.380893999998,"Sold half, 8, of stock MSFT at 294.230011 because it's platued for the past 3 days and it has an okay recent history. New total is 10073.380893999998"
+466,2021-10-11,TSLA,4647.030765999998,791.940002,0,10073.380893999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+467,2021-10-11,GOOGL,1868.750736999998,2778.280029,2,10073.380893999998,Bought 1 of GOOGL for 2778.280029 because it's been growing for the past 3 days. New total is 10073.380893999998
+468,2021-10-12,GOOGL,4597.730716999999,2728.97998,1,9962.630741999998,"Sold half, 1, of stock GOOGL at 2728.97998 because it's platued for the past 3 days and it has an okay recent history. New total is 9962.630741999998"
+469,2021-10-12,FB,4597.730716999999,323.769989,0,9962.630741999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+470,2021-10-12,MSFT,5769.2507369999985,292.880005,5,9962.630741999998,"Sold half, 4, of stock MSFT at 292.880005 because it's platued for the past 3 days and it has an okay recent history. New total is 9962.630741999998"
+471,2021-10-12,TSLA,5769.2507369999985,805.719971,0,9962.630741999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+472,2021-10-13,GOOGL,8520.890629999998,2751.639893,0,10002.440619999998,"Sold half, 1, of stock GOOGL at 2751.639893 because it's platued for the past 3 days and it has an okay recent history. New total is 10002.440619999998"
+473,2021-10-13,FB,8520.890629999998,324.540009,0,10002.440619999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+474,2021-10-13,MSFT,9113.510625999998,296.309998,3,10002.440619999998,"Sold half, 2, of stock MSFT at 296.309998 because it's platued for the past 3 days and it has an okay recent history. New total is 10002.440619999998"
+475,2021-10-13,TSLA,9113.510625999998,811.080017,0,10002.440619999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+476,2021-10-14,GOOGL,9113.510625999998,2823.02002,0,10021.760625999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+477,2021-10-14,FB,9113.510625999998,328.529999,0,10021.760625999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+478,2021-10-14,MSFT,9416.260625999998,302.75,2,10021.760625999998,"Sold half, 1, of stock MSFT at 302.75 because it's platued for the past 3 days and it has an okay recent history. New total is 10021.760625999998"
+479,2021-10-14,TSLA,414.74054899999646,818.320007,11,10021.760625999998,Bought 11 of TSLA for 818.320007 because it's been growing for the past 3 days. New total is 10021.760625999998
+480,2021-10-15,GOOGL,414.74054899999646,2827.360107,0,10296.490849999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+481,2021-10-15,FB,414.74054899999646,324.76001,0,10296.490849999996,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+482,2021-10-15,MSFT,718.9505399999964,304.209991,1,10296.490849999996,"Sold half, 1, of stock MSFT at 304.209991 because it's platued for the past 3 days and it has an okay recent history. New total is 10296.490849999996"
+483,2021-10-15,TSLA,718.9505399999964,843.030029,11,10296.490849999996,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+484,2021-10-18,FB,718.9505399999964,335.339996,0,10597.450383999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+485,2021-10-18,GOOGL,718.9505399999964,2855.560059,0,10597.450383999998,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+486,2021-10-18,MSFT,718.9505399999964,307.290009,1,10597.450383999998,Didn't do buy any of MSFT even though it's growing because we don't currently have the money
+487,2021-10-18,TSLA,718.9505399999964,870.109985,11,10597.450383999998,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+488,2021-10-19,FB,718.9505399999964,339.98999,0,10534.150770999997,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+489,2021-10-19,GOOGL,718.9505399999964,2864.73999,0,10534.150770999997,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+490,2021-10-19,MSFT,718.9505399999964,308.230011,1,10534.150770999997,Didn't do buy any of MSFT even though it's growing because we don't currently have the money
+491,2021-10-19,TSLA,718.9505399999964,864.27002,11,10534.150770999997,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+492,2021-10-20,FB,718.9505399999964,340.779999,0,10550.160411999996,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+493,2021-10-20,TSLA,5047.950479999996,865.799988,6,10550.160411999996,"Sold half, 5, of stock TSLA at 865.799988 because it's platued for the past 3 days and it has an okay recent history. New total is 10550.160411999996"
+494,2021-10-20,GOOGL,5047.950479999996,2835.379883,0,10550.160411999996,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+495,2021-10-20,MSFT,2588.6704479999958,307.410004,9,10550.160411999996,Bought 8 of MSFT for 307.410004 because it's been growing for the past 3 days. New total is 10550.160411999996
+496,2021-10-21,GOOGL,2588.6704479999958,2837.719971,0,10749.510537999995,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+497,2021-10-21,MSFT,3831.710487999996,310.76001,5,10749.510537999995,"Sold half, 4, of stock MSFT at 310.76001 because it's platued for the past 3 days and it has an okay recent history. New total is 10749.510537999995"
+498,2021-10-21,TSLA,6513.710487999996,894.0,3,10749.510537999995,"Sold half, 3, of stock TSLA at 894.0 because it's platued for the past 3 days and it has an okay recent history. New total is 10749.510537999995"
+499,2021-10-21,FB,17.990392999996402,341.880005,19,10749.510537999995,Bought 19 of FB for 341.880005 because it's been growing for the past 3 days. New total is 10749.510537999995
+500,2021-10-22,GOOGL,17.990392999996402,2751.330078,0,10460.420106999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+501,2021-10-22,MSFT,636.3104009999964,309.160004,3,10460.420106999998,"Sold half, 2, of stock MSFT at 309.160004 because it's platued for the past 3 days and it has an okay recent history. New total is 10460.420106999998"
+502,2021-10-22,TSLA,1545.9903939999963,909.679993,2,10460.420106999998,"Sold half, 1, of stock TSLA at 909.679993 because it's platued for the past 3 days and it has an okay recent history. New total is 10460.420106999998"
+503,2021-10-22,FB,247.5504539999963,324.609985,23,10460.420106999998,Bought 4 of FB for 324.609985 because it's been growing for the past 3 days. New total is 10460.420106999998
+504,2021-10-25,GOOGL,247.5504539999963,2748.939941,0,10781.530484999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+505,2021-10-25,FB,3863.140475999996,328.690002,12,10781.530484999996,"Sold half, 11, of stock FB at 328.690002 because it's platued for the past 3 days and it has an okay recent history. New total is 10781.530484999996"
+506,2021-10-25,MSFT,4171.270480999996,308.130005,2,10781.530484999996,"Sold half, 1, of stock MSFT at 308.130005 because it's platued for the past 3 days and it has an okay recent history. New total is 10781.530484999996"
+507,2021-10-25,TSLA,71.83054099999572,1024.859985,6,10781.530484999996,Bought 4 of TSLA for 1024.859985 because it's been growing for the past 3 days. New total is 10781.530484999996
+508,2021-10-26,GOOGL,71.83054099999572,2786.169922,0,10592.350444999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+509,2021-10-26,FB,1966.6905289999959,315.809998,6,10592.350444999996,"Sold half, 6, of stock FB at 315.809998 because it's platued for the past 3 days and it has an okay recent history. New total is 10592.350444999996"
+510,2021-10-26,MSFT,2276.800513999996,310.109985,1,10592.350444999996,"Sold half, 1, of stock MSFT at 310.109985 because it's platued for the past 3 days and it has an okay recent history. New total is 10592.350444999996"
+511,2021-10-26,TSLA,239.940527999996,1018.429993,8,10592.350444999996,Bought 2 of TSLA for 1018.429993 because it's been growing for the past 3 days. New total is 10592.350444999996
+512,2021-10-27,GOOGL,239.940527999996,2924.350098,0,10739.310426999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+513,2021-10-27,FB,2113.2605339999964,312.220001,0,10739.310426999997,"Sold all 6, of stock FB at 312.220001 because it's platued for the past 3 days, but it has a poor recent history. New total is 10739.310426999997"
+514,2021-10-27,MSFT,2436.4305469999963,323.170013,0,10739.310426999997,"Sold half, 1, of stock MSFT at 323.170013 because it's platued for the past 3 days and it has an okay recent history. New total is 10739.310426999997"
+515,2021-10-27,TSLA,6587.8704869999965,1037.859985,4,10739.310426999997,"Sold half, 4, of stock TSLA at 1037.859985 because it's platued for the past 3 days and it has an okay recent history. New total is 10739.310426999997"
+516,2021-10-28,GOOGL,6587.8704869999965,2916.97998,0,10896.030642999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+517,2021-10-28,FB,6587.8704869999965,316.920013,0,10896.030642999996,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+518,2021-10-28,MSFT,6587.8704869999965,324.350006,0,10896.030642999996,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+519,2021-10-28,TSLA,8741.950564999996,1077.040039,2,10896.030642999995,"Sold half, 2, of stock TSLA at 1077.040039 because it's platued for the past 3 days and it has an okay recent history. New total is 10896.030642999995"
+520,2021-10-29,GOOGL,8741.950564999996,2960.919922,0,10969.950564999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+521,2021-10-29,FB,8741.950564999996,323.570007,0,10969.950564999996,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+522,2021-10-29,TSLA,9855.950564999996,1114.0,1,10969.950564999996,"Sold half, 1, of stock TSLA at 1114.0 because it's platued for the past 3 days and it has an okay recent history. New total is 10969.950564999996"
+523,2021-10-29,MSFT,238.97070999999414,331.619995,29,10969.950564999996,Bought 29 of MSFT for 331.619995 because it's been growing for the past 3 days. New total is 10969.950564999996
+524,2021-11-01,GOOGL,238.97070999999414,2869.939941,0,10999.290530999995,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+525,2021-11-01,FB,238.97070999999414,329.980011,0,10999.290530999995,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+526,2021-11-01,MSFT,238.97070999999414,329.369995,29,10999.290530999995,Didn't do buy any of MSFT even though it's growing because we don't currently have the money
+527,2021-11-01,TSLA,238.97070999999414,1208.589966,1,10999.290530999995,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+528,2021-11-02,GOOGL,238.97070999999414,2908.649902,0,11071.740854999993,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+529,2021-11-02,MSFT,4902.790779999994,333.130005,15,11071.740854999993,"Sold half, 14, of stock MSFT at 333.130005 because it's platued for the past 3 days and it has an okay recent history. New total is 11071.740854999993"
+530,2021-11-02,FB,2606.230870999994,328.079987,7,11071.740854999993,Bought 7 of FB for 328.079987 because it's been growing for the past 3 days. New total is 11071.740854999993
+531,2021-11-02,TSLA,262.23087099999384,1172.0,3,11071.740854999993,Bought 2 of TSLA for 1172.0 because it's been growing for the past 3 days. New total is 11071.740854999993
+532,2021-11-03,GOOGL,262.23087099999384,2931.959961,0,11235.150790999995,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+533,2021-11-03,FB,1257.090855999994,331.619995,4,11235.150790999995,"Sold half, 3, of stock FB at 331.619995 because it's platued for the past 3 days and it has an okay recent history. New total is 11235.150790999995"
+534,2021-11-03,MSFT,3595.090855999994,334.0,8,11235.150790999995,"Sold half, 7, of stock MSFT at 334.0 because it's platued for the past 3 days and it has an okay recent history. New total is 11235.150790999995"
+535,2021-11-03,TSLA,4808.950840999994,1213.859985,2,11235.150790999996,"Sold half, 1, of stock TSLA at 1213.859985 because it's platued for the past 3 days and it has an okay recent history. New total is 11235.150790999996"
+536,2021-11-04,GOOGL,4808.950840999994,2965.350098,0,11303.690948999994,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+537,2021-11-04,FB,5480.650852999995,335.850006,2,11303.690948999994,"Sold half, 2, of stock FB at 335.850006 because it's platued for the past 3 days and it has an okay recent history. New total is 11303.690948999994"
+538,2021-11-04,MSFT,6826.410860999995,336.440002,4,11303.690948999994,"Sold half, 4, of stock MSFT at 336.440002 because it's platued for the past 3 days and it has an okay recent history. New total is 11303.690948999994"
+539,2021-11-04,TSLA,8056.320894999995,1229.910034,1,11303.690948999994,"Sold half, 1, of stock TSLA at 1229.910034 because it's platued for the past 3 days and it has an okay recent history. New total is 11303.690948999994"
+540,2021-11-05,FB,8397.450899999996,341.130005,1,11304.910862999997,"Sold half, 1, of stock FB at 341.130005 because it's platued for the past 3 days and it has an okay recent history. New total is 11304.910862999997"
+541,2021-11-05,TSLA,9619.540865999996,1222.089966,0,11304.910862999996,"Sold half, 1, of stock TSLA at 1222.089966 because it's platued for the past 3 days and it has an okay recent history. New total is 11304.910862999996"
+542,2021-11-05,GOOGL,6642.500826999996,2977.040039,1,11304.910862999997,Bought 1 of GOOGL for 2977.040039 because it's been growing for the past 3 days. New total is 11304.910862999997
+543,2021-11-05,MSFT,1937.6608549999964,336.059998,18,11304.910862999996,Bought 14 of MSFT for 336.059998 because it's been growing for the past 3 days. New total is 11304.910862999996
+544,2021-11-08,MSFT,4970.570764999997,336.98999,9,11322.720786999997,"Sold half, 9, of stock MSFT at 336.98999 because it's platued for the past 3 days and it has an okay recent history. New total is 11322.720786999997"
+545,2021-11-08,TSLA,4970.570764999997,1162.939941,0,11322.720786999997,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+546,2021-11-08,GOOGL,4970.570764999997,2980.620117,1,11322.720786999997,Didn't do buy any of GOOGL even though it's growing because we don't currently have the money
+547,2021-11-08,FB,2600.2307999999966,338.619995,8,11322.720786999998,Bought 7 of FB for 338.619995 because it's been growing for the past 3 days. New total is 11322.720786999998
+548,2021-11-09,FB,3941.7107799999967,335.369995,4,11285.110985,"Sold half, 4, of stock FB at 335.369995 because it's platued for the past 3 days and it has an okay recent history. New total is 11285.110985"
+549,2021-11-09,MSFT,5285.510827999997,335.950012,5,11285.110985,"Sold half, 4, of stock MSFT at 335.950012 because it's platued for the past 3 days and it has an okay recent history. New total is 11285.110985"
+550,2021-11-09,TSLA,5285.510827999997,1023.5,0,11285.110985,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+551,2021-11-09,GOOGL,2307.140710999997,2978.370117,2,11285.110984999998,Bought 1 of GOOGL for 2978.370117 because it's been growing for the past 3 days. New total is 11285.110984999998
+552,2021-11-10,TSLA,2307.140710999997,1067.949951,0,11107.440944999997,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+553,2021-11-10,GOOGL,5225.010827999997,2917.870117,1,11107.440944999997,"Sold half, 1, of stock GOOGL at 2917.870117 because it's platued for the past 3 days and it has an okay recent history. New total is 11107.440944999997"
+554,2021-11-10,FB,5880.290857999997,327.640015,2,11107.440944999997,"Sold half, 2, of stock FB at 327.640015 because it's platued for the past 3 days and it has an okay recent history. New total is 11107.440944999997"
+555,2021-11-10,MSFT,6541.890833999996,330.799988,3,11107.440944999997,"Sold half, 2, of stock MSFT at 330.799988 because it's platued for the past 3 days and it has an okay recent history. New total is 11107.440944999997"
+556,2021-11-11,FB,7197.370813999996,327.73999,0,11109.990870999996,Sold all 2 of stock FB at 327.73999 because it's been falling for 3 consecutive days. New total is 11109.990870999996
+557,2021-11-11,GOOGL,10112.700891999997,2915.330078,0,11109.990870999998,"Sold half, 1, of stock GOOGL at 2915.330078 because it's platued for the past 3 days and it has an okay recent history. New total is 11109.990870999998"
+558,2021-11-11,MSFT,10445.130884999997,332.429993,2,11109.990870999996,"Sold half, 1, of stock MSFT at 332.429993 because it's platued for the past 3 days and it has an okay recent history. New total is 11109.990870999996"
+559,2021-11-11,TSLA,10445.130884999997,1063.51001,0,11109.990870999996,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+560,2021-11-12,GOOGL,10445.130884999997,2973.560059,0,11118.570886999996,Didn't do anything for GOOGL since it's falling and we have own none of its stocks
+561,2021-11-12,FB,10445.130884999997,340.890015,0,11118.570886999996,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+562,2021-11-12,MSFT,10781.850885999997,336.720001,1,11118.570886999996,"Sold half, 1, of stock MSFT at 336.720001 because it's platued for the past 3 days and it has an okay recent history. New total is 11118.570886999996"
+563,2021-11-12,TSLA,10781.850885999997,1033.420044,0,11118.570886999996,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+564,2021-11-15,GOOGL,10781.850885999997,2969.040039,0,11117.920892999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+565,2021-11-15,FB,10781.850885999997,347.559998,0,11117.920892999997,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+566,2021-11-15,MSFT,11117.920892999997,336.070007,0,11117.920892999997,"Sold half, 1, of stock MSFT at 336.070007 because it's platued for the past 3 days and it has an okay recent history. New total is 11117.920892999997"
+567,2021-11-15,TSLA,11117.920892999997,1013.390015,0,11117.920892999997,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+568,2021-11-16,TSLA,11117.920892999997,1054.72998,0,11117.920892999997,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+569,2021-11-16,GOOGL,11117.920892999997,2957.52002,0,11117.920892999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+570,2021-11-16,MSFT,11117.920892999997,339.51001,0,11117.920892999997,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+571,2021-11-16,FB,143.20118099999672,342.959991,32,11117.920892999997,Bought 32 of FB for 342.959991 because it's been growing for the past 3 days. New total is 11117.920892999997
+572,2021-11-17,GOOGL,143.20118099999672,2960.939941,0,11047.840828999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+573,2021-11-17,FB,5595.521004999997,340.769989,16,11047.840828999997,"Sold half, 16, of stock FB at 340.769989 because it's platued for the past 3 days and it has an okay recent history. New total is 11047.840828999997"
+574,2021-11-17,MSFT,5595.521004999997,339.119995,0,11047.840828999997,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+575,2021-11-17,TSLA,5595.521004999997,1089.01001,0,11047.840828999997,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+576,2021-11-18,GOOGL,5595.521004999997,2996.77002,0,11014.561036999996,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+577,2021-11-18,FB,8305.041020999997,338.690002,8,11014.561036999998,"Sold half, 8, of stock FB at 338.690002 because it's platued for the past 3 days and it has an okay recent history. New total is 11014.561036999998"
+578,2021-11-18,MSFT,8305.041020999997,341.269989,0,11014.561036999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+579,2021-11-18,TSLA,8305.041020999997,1096.380005,0,11014.561036999998,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+580,2021-11-19,FB,11067.440924999997,345.299988,0,11067.440924999997,Sold all 8 of stock FB at 345.299988 because it's been falling for 3 consecutive days. New total is 11067.440924999997
+581,2021-11-19,GOOGL,11067.440924999997,2978.530029,0,11067.440924999997,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+582,2021-11-19,MSFT,11067.440924999997,343.109985,0,11067.440924999997,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+583,2021-11-19,TSLA,833.9003939999984,1137.060059,9,11067.440924999997,Bought 9 of TSLA for 1137.060059 because it's been growing for the past 3 days. New total is 11067.440924999997
+584,2021-11-22,GOOGL,833.9003939999984,2926.040039,0,11245.730349,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+585,2021-11-22,FB,833.9003939999984,341.01001,0,11245.730349,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+586,2021-11-22,MSFT,833.9003939999984,339.829987,0,11245.730349,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+587,2021-11-22,TSLA,833.9003939999984,1156.869995,9,11245.730349,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+588,2021-11-23,GOOGL,833.9003939999984,2915.639893,0,10815.170654999998,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+589,2021-11-23,FB,833.9003939999984,337.25,0,10815.170654999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+590,2021-11-23,MSFT,833.9003939999984,337.679993,0,10815.170654999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+591,2021-11-23,TSLA,833.9003939999984,1109.030029,9,10815.170654999998,Didn't do buy any of TSLA even though it's growing because we don't currently have the money
+592,2021-11-24,GOOGL,833.9003939999984,2922.399902,0,10877.900393999998,Didn't do anything for GOOGL since it's falling and we have own none of its stocks
+593,2021-11-24,FB,833.9003939999984,341.059998,0,10877.900393999998,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+594,2021-11-24,MSFT,833.9003939999984,337.910004,0,10877.900393999998,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+595,2021-11-24,TSLA,5297.900393999998,1116.0,5,10877.900393999998,"Sold half, 4, of stock TSLA at 1116.0 because it's platued for the past 3 days and it has an okay recent history. New total is 10877.900393999998"
+596,2021-11-26,GOOGL,5297.900393999998,2843.659912,0,10707.500613999999,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+597,2021-11-26,FB,5297.900393999998,333.119995,0,10707.500613999999,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+598,2021-11-26,MSFT,5297.900393999998,329.679993,0,10707.500613999999,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+599,2021-11-26,TSLA,7461.740481999998,1081.920044,3,10707.500613999999,"Sold half, 2, of stock TSLA at 1081.920044 because it's platued for the past 3 days and it has an okay recent history. New total is 10707.500613999999"
+600,2021-11-29,GOOGL,7461.740481999998,2910.610107,0,10872.710452,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+601,2021-11-29,FB,7461.740481999998,338.029999,0,10872.710452,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+602,2021-11-29,MSFT,7461.740481999998,336.630005,0,10872.710452,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+603,2021-11-29,TSLA,8598.730472,1136.98999,2,10872.710452,"Sold half, 1, of stock TSLA at 1136.98999 because it's platued for the past 3 days and it has an okay recent history. New total is 10872.710452"
+604,2021-11-30,GOOGL,8598.730472,2837.949951,0,10888.250492,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+605,2021-11-30,FB,8598.730472,324.459991,0,10888.250492,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+606,2021-11-30,MSFT,8598.730472,330.589996,0,10888.250492,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+607,2021-11-30,TSLA,9743.490482,1144.76001,1,10888.250492,"Sold half, 1, of stock TSLA at 1144.76001 because it's platued for the past 3 days and it has an okay recent history. New total is 10888.250492"
+608,2021-12-01,GOOGL,9743.490482,2821.030029,0,10838.490482,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+609,2021-12-01,FB,9743.490482,310.600006,0,10838.490482,Didn't do anything for FB since it's stable and has a bad history and we have own none of its stocks
+610,2021-12-01,MSFT,9743.490482,330.079987,0,10838.490482,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+611,2021-12-01,TSLA,10838.490482,1095.0,0,10838.490482,"Sold half, 1, of stock TSLA at 1095.0 because it's platued for the past 3 days and it has an okay recent history. New total is 10838.490482"
+612,2021-12-02,GOOGL,10838.490482,2859.320068,0,10838.490482,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+613,2021-12-02,FB,10838.490482,310.390015,0,10838.490482,Didn't do anything for FB since it's stable and has a bad history and we have own none of its stocks
+614,2021-12-02,MSFT,10838.490482,329.48999,0,10838.490482,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+615,2021-12-02,TSLA,10838.490482,1084.599976,0,10838.490482,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+616,2021-12-03,FB,10838.490482,306.839996,0,10838.490482,Didn't do anything for FB since it's falling and we have own none of its stocks
+617,2021-12-03,MSFT,10838.490482,323.01001,0,10838.490482,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+618,2021-12-03,GOOGL,10838.490482,2840.030029,0,10838.490482,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+619,2021-12-03,TSLA,10838.490482,1014.969971,0,10838.490482,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
+620,2021-12-06,FB,10838.490482,317.869995,0,10838.490482,Didn't do anything for FB since it's falling and we have own none of its stocks
+621,2021-12-06,MSFT,10838.490482,326.190002,0,10838.490482,Didn't do anything for MSFT since it's falling and we have own none of its stocks
+622,2021-12-06,TSLA,10838.490482,1009.01001,0,10838.490482,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+623,2021-12-06,GOOGL,10838.490482,2863.100098,0,10838.490482,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+624,2021-12-07,TSLA,10838.490482,1051.75,0,10838.490482,Didn't do anything for TSLA since it's falling and we have own none of its stocks
+625,2021-12-07,GOOGL,10838.490482,2945.389893,0,10838.490482,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+626,2021-12-07,FB,10838.490482,322.809998,0,10838.490482,Didn't do anything for FB since it's stable and has a bad history and we have own none of its stocks
+627,2021-12-07,MSFT,10838.490482,334.920013,0,10838.490482,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+628,2021-12-08,GOOGL,10838.490482,2963.72998,0,10838.490482,Didn't do anything for GOOGL since it's stable and has a decent history and we have own none of its stocks
+629,2021-12-08,FB,10838.490482,330.559998,0,10838.490482,Didn't do anything for FB since it's stable and has a decent history and we have own none of its stocks
+630,2021-12-08,MSFT,10838.490482,334.970001,0,10838.490482,Didn't do anything for MSFT since it's stable and has a decent history and we have own none of its stocks
+631,2021-12-08,TSLA,10838.490482,1068.959961,0,10838.490482,Didn't do anything for TSLA since it's stable and has a decent history and we have own none of its stocks
