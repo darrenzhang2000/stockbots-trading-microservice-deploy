@@ -35,7 +35,7 @@ def runAlgoJob():
     runAlgoJob()
 
 
-thread1 = threading.Thread(runAlgoJob)
+thread1 = threading.Thread(target=runAlgoJob)
 thread1.run()
 
 if __name__ == '__main__':
