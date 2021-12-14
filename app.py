@@ -1,8 +1,11 @@
+from flask import Flask
 import requests
 from both_algos import stockActions
 import time
 from dotenv import load_dotenv
 import os
+from flask import Flask
+import threading
 
 load_dotenv()
 
@@ -21,9 +24,12 @@ def getPortfolios():
 
     return portfolios
 
+thread1 = threading.Thread(runAlgoJob)
+thread1.run()
+
 def runAlgoJob():
+    print('running algo job')
     time.sleep(86400)
-    
     portfolios = getPortfolios()
     emails = [p["email"] for p in portfolios]
     for email in emails:
@@ -34,4 +40,4 @@ def runAlgoJob():
 
 
 if __name__ == '__main__':
-    runAlgoJob()
+    app = Flask(__name__)
