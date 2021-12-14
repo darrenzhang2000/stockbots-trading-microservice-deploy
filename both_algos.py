@@ -396,4 +396,3 @@ def stockActions(tickers, email):
 
 
  
-stockActions(['GOOGL', 'TSLA', 'FB', 'MSFT'], 'testuser@gmail.com') #okay, Apple's strange but it works
